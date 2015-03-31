@@ -1,1 +1,1 @@
-Testing the sinatra gem on localhost.
+Testing the sinatra gem on localhost & Heroku.
